@@ -7,6 +7,7 @@ public class Test
 		System.out.println("Time Pass!!!!!!");
 		System.out.println("--------------");
 		System.out.println("***************");
+		System.out.println("++++++++++++++++");
 	}
 	
 }
